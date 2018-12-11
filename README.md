@@ -36,8 +36,13 @@ USB 연결 후 단순 키보드 입력 테스트
 
 ### 01. GPIO Test   
 
+https://blog.naver.com/elepartsblog/221416960494  
+
 ### 02. Mouse   
+
+https://blog.naver.com/elepartsblog/221416968387  
 
 ### 03. KeyBoard  
 
+https://blog.naver.com/elepartsblog/221417011997  
 
