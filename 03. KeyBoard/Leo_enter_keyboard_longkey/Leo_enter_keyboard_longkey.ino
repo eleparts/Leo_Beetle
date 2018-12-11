@@ -1,3 +1,11 @@
+/*  CJMCU beetle keyboard 테스트 프로그램
+*   수정 : 2018. 12. 11
+*   제작 : eleparts 부설연구소
+*   SW ver. 1.0.0
+*   
+*   GPIO D9 에 키 입력용 센서 연결
+*/
+
 #include <Keyboard.h>
 int key = LOW;
 int last_key = LOW;

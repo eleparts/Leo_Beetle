@@ -3,11 +3,10 @@
 
   
 
-**USB**에 연결해서 간단히 사용 가능한 **Leonardo** 기반 보드 **Leo-Beetle**을 사용/테스트 하는 예제입니다.    
+**USB**에 연결해서 간단히 사용 가능한 **Leonardo** 기반 보드 **Leo-Beetle**을 사용/테스트 하는 아두이노 예제입니다.    
 
 엘레파츠에서 Leo-Beetle 보드는 아래 링크에서 만나보실 수 있습니다.  
 https://www.eleparts.co.kr/EPXLCXXV  
-  
   
 
 ## 첨부 예제 코드 및 테스트 예제    

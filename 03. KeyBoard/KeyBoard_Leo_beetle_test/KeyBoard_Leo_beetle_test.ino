@@ -1,3 +1,9 @@
+/*  CJMCU beetle Keyboard 테스트 프로그램
+*   수정 : 2018. 12. 11
+*   제작 : eleparts 부설연구소
+*   SW ver. 1.0.0
+*/
+
 #include <Keyboard.h>
 
 void setup() {
